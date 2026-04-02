@@ -1,78 +1,93 @@
-<!-- Centered hero -->
 <div align="center">
-  
+
 # 👋 Hey, I'm Leo
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=2E9EF7&center=true&vCenter=true&width=560&lines=Python+developer+%7C+Machine+Learning+enthusiast;Open+source+contributor+%26+lifelong+learner;Building+clean+code+and+useful+data+apps;Brazilian+dev+who+loves+books+%F0%9F%93%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Python+Developer;Data+Scientist;Machine+Learning+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 
 </div>
 
-## 🚀 About me
-Brazilian developer building practical solutions with Python and Machine Learning. I enjoy turning ideas into useful data products and clean, reliable code.
+---
 
-- 🔭 Currently: personal/open-source projects and ML experiments  
-- 🌱 Learning: MLOps, data pipeline best practices, model monitoring  
-- 💬 Let’s chat about Python, ML, and data apps  
-- 📚 Fun fact: I’m an avid reader
+## 🚀 About Me
 
-## ⭐ Highlights
-<!-- Substitua pelos seus repositórios reais e adicione links -->
+Brazilian developer focused on **Data Science and Machine Learning**, building practical solutions with clean and reliable code.
 
-- 🧠 Faça sua História — Web project inspired by gamebooks. Your choices lead to different endings.  
-  Stack: `JavaScript`, `HTML`, `CSS`  
-  <!-- Ex.: [Repo](https://github.com/Leow14/faca_sua_historia) -->
+* 🔭 Currently working on data projects & ML experiments
+* 🌱 Learning more about **Data Science, Algorithms and Systems Design**
+* 💬 Ask me about **Python, ML, data pipelines, analytics**
+* 🎧 My music taste is... unpredictable
 
-- 📈 Beecrowd Python — Daily practice repository solving Beecrowd problems in Python (focus on algorithms and logic).  
-  Stack: `Python`, `Algorithmic Thinking`  
-  <!-- Ex.: [Repo](https://github.com/Leow14/Beecrowd---exercises) -->
+---
 
-- 🗺️ Elipse — Logistic regression demo site combining environmental insights with a clean, lightweight design.  
-  Stack: `Java`, `SQL`, `HTML`, `CSS`, `JavaScript`  
-  <!-- Ex.: [Repo](https://github.com/Leow14/Elipse) -->
+## 🧠 Featured Projects
 
-## 🛠️ Tech
+* 📺 **Netflix Wrapped**
+  Aplying data science to analyze and recommend titles based on my netflix consume.
+  `Python • Machine Learning • Data Science • Pandas • Scikit-learn`
+
+* 🧠 **Elipse**
+  Reverse logistic demo site with environmental insights.
+  `Java • SQL • HTML5 • CSS • UI/UX`
+
+* 🎮 **Faça sua História**
+  Interactive storytelling web app
+  `JavaScript • HTML • CSS`
+
+* 🪙 **Criptocão**
+  Discord Bot display and alert the highs and lows of the cripto market.
+  `Python • Discord • Cripto • CoinGecko API`
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-<!-- Core / Data -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-<!-- Web / Front -->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=fff)
-
-<!-- Tools / DB -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 </div>
 
-## 📊 Stats
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <!-- Sem rating nem contador de visitas -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leow14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leow14&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-  <!-- opcional: streak
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leow14&theme=tokyonight" alt="GitHub Streak" />
-  -->
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Leow14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leow14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img src="https://streak-stats.demolab.com?user=Leow14&theme=tokyonight&hide_border=true&background=0d1117" />
+
 </div>
+
+---
 
 ## 🌐 Connect
-<div align="center">
-  <a href="mailto:leonardo.amorim1411@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <a href="https://www.linkedin.com/in/leo-amorim/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-</div>
 
 <div align="center">
-  
-**Thanks for stopping by!** 💙
+
+<a href="mailto:leonardo.amorim1411@gmail.com">
+  <img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/leo-amorim/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+💙 *Thanks for stopping by!*
 
 </div>
