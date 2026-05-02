@@ -98,11 +98,11 @@ Brazilian developer focused on **Data Science and Machine Learning**, building p
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Leow14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Leow14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leow14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leow14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
 
-<img src="https://streak-stats.demolab.com?user=Leow14&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Leow14&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
