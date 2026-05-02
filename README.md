@@ -23,11 +23,11 @@ Brazilian developer focused on **Data Science and Machine Learning**, building p
 
 * 📺 **Netflix Wrapped**
   Aplying data science to analyze and recommend titles based on my netflix consume.
-  `Python • Machine Learning • Data Science • Pandas • Scikit-learn`
+  `Python • Data Science • Pandas • Scikit-learn • Random Forest Regressor • K-Means`
 
-* 🧠 **Elipse**
-  Reverse logistic demo site with environmental insights.
-  `Java • SQL • HTML5 • CSS • UI/UX`
+* 🧠 **Social Impact on Mental Health**
+  Analyzing a data base to seek correlations between the addiction of social media to mental health issues.
+  `Python • Data Science • Pandas • Scikit-learn • K-Means`
 
 * 🎮 **Faça sua História**
   Interactive storytelling web app
@@ -98,9 +98,10 @@ Brazilian developer focused on **Data Science and Machine Learning**, building p
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Leow14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leow14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Leow14&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Leo's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Leow14&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Leo's Top Languages" height="180" />
+</p>
 
 </div>
 
