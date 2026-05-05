@@ -20,14 +20,22 @@ Brazilian developer focused on **Data Science and Machine Learning**, building p
 ---
 
 ## 🧠 Featured Projects
-<p align="center">
-  <a href="https://github.com/Leow14/Projeto-Netlix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leow14&repo=Projeto-Netlix&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
-  </a>
-  <a href="https://github.com/Leow14/Social-Media-Impact">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leow14&repo=Social-Media-Impact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
-  </a>
-</p>
+
+* 📺 **Netflix Wrapped**
+  Aplying data science to analyze and recommend titles based on my netflix consume.
+  `Python • Data Science • Pandas • Scikit-learn • Random Forest Regressor • K-Means`
+
+* 🧠 **Social Impact on Mental Health**
+  Analyzing a data base to seek correlations between the addiction of social media to mental health issues.
+  `Python • Data Science • Pandas • Scikit-learn • K-Means`
+
+* 🎮 **Faça sua História**
+  Interactive storytelling web app
+  `JavaScript • HTML • CSS`
+
+* 🪙 **Criptocão**
+  Discord Bot display and alert the highs and lows of the cripto market.
+  `Python • Discord • Cripto • CoinGecko API`
 
 ---
 
