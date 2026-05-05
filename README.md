@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Leo
+# 👋 Welcome to my profile!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Python+Developer;Data+Scientist;Machine+Learning+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9F37B8&background=C8619E00&center=true&vCenter=true&width=600&height=150&lines=Hi!+I'm+Leo!;23+years%2C+brazillian+developer;Machine+Learning+Enthusiast;Python+Developer;Data+Scientist)](https://git.io/typing-svg)
 
 </div>
 
