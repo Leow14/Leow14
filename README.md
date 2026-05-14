@@ -38,24 +38,21 @@ Brazilian developer focused on **Data Science and Machine Learning**, building p
   `Python • Discord • Cripto • CoinGecko API`
 
 ---
-
-## 🛠️ Tech Stack
 ## 🛠️ Tech Stack
 
-### 📊 Data Science & Analytics
 <div align="center">
 
 <img alt="Python" height="55" width="55" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
+<img alt="Pandas" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+<img alt="Scikit Learn" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+<img alt="Matplotlib" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+<img alt="Jupyter" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
 <img alt="Power BI" height="55" width="55" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Power BI.svg">
 <img alt="MySQL" height="55" width="55" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg">
 <img alt="Flask" height="55" width="55" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Flask.svg">
 
-<br>
+<br><br>
 
-`Pandas` · `Scikit-learn` · `Matplotlib` · `Seaborn` · `Jupyter Notebook`
-
-</div>
-<div align="center">
 <img alt="HTML" height="55" width="55" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
 <img alt="CSS" height="55" width="55" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
 <img alt="JavaScript" height="55" width="55" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
@@ -63,6 +60,9 @@ Brazilian developer focused on **Data Science and Machine Learning**, building p
 <img alt="TailwindCSS" height="55" width="55" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
 <img alt="Bootstrap" height="55" width="55" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Bootstrap.svg">
 <img alt="Java" height="55" width="55" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
+
+<br><br>
+
 <img alt="Arduino" height="55" width="55" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Arduino.svg">
 <img alt="C++" height="55" width="55" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/C++.svg">
 <img alt="Git" height="55" width="55" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg">
